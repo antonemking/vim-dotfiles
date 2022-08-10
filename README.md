@@ -12,8 +12,11 @@ Warning: Use at your own risk. Please do not just blindly copy without reviewing
 
 Requires [Neovim](https://neovim.io/)
 
+  - Tokyonight
+
 ## To-do
-- [ ] Folder hiearchy
+- [x] Folder struct
+- [x] Theming
 - [ ] Plugins
   - [ ] vimwiki
   - [ ] telescope
