@@ -2,9 +2,10 @@
 Warning: Use at your own risk. Please do not just blindly copy without reviewing.
 
 ## Contents
-- NeoVim config
+- NeoVim
 - git
 - iTerm
+- Fish
 
 
 ## Neovim stuff
