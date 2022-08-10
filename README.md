@@ -3,6 +3,8 @@ Warning: Use at your own risk. Please do not just blindly copy without reviewing
 
 ## Contents
 - NeoVim config
+- git
+- iTerm
 
 
 ## Neovim stuff
@@ -19,6 +21,7 @@ Requires [Neovim](https://neovim.io/)
   - [ ] fzf
   - [ ] markdown preview
   - [ ] gitsigns
+- [ ] keymappings
 
 
 ## How I use
