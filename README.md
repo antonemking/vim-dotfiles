@@ -12,10 +12,17 @@ Requires [Neovim](https://neovim.io/)
 ## To-do
 - [ ] Folder hiearchy
 - [ ] Plugins
-- [ ] Purpose/Flow
+  - [ ] vimwiki
+  - [ ] telescope
+  - [ ] vim-zettel
+  - [ ] goyo
+  - [ ] fzf
+  - [ ] markdown preview
+  - [ ] gitsigns
+
 
 ## How I use
-
+- [ ] Purpose/Flow
 
 ## About me
 Twitter handles is @antoneking. I don't post much.
