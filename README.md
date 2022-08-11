@@ -26,6 +26,8 @@ Requires [Neovim](https://neovim.io/)
   - [ ] markdown preview
   - [x] gitsigns
 - [x] keymappings
+- [ ] portability
+
 
 
 ## How I use
