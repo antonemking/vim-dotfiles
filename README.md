@@ -27,6 +27,7 @@ Requires [Neovim](https://neovim.io/)
   - [x] gitsigns
 - [x] keymappings
 - [ ] portability
+- [ ] Complete README
 
 
 
