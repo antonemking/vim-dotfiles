@@ -18,14 +18,14 @@ Requires [Neovim](https://neovim.io/)
 - [x] Folder struct
 - [x] Theming
 - [ ] Plugins
-  - [ ] vimwiki
-  - [ ] telescope
-  - [ ] vim-zettel
-  - [ ] goyo
-  - [ ] fzf
+  - [x] vimwiki
+  - [x] telescope
+  - [x] vim-zettel
+  - [x] goyo
+  - [x] fzf
   - [ ] markdown preview
-  - [ ] gitsigns
-- [ ] keymappings
+  - [x] gitsigns
+- [x] keymappings
 
 
 ## How I use
