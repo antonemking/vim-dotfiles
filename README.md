@@ -5,8 +5,6 @@ Warning: Use at your own risk. Please do not just blindly copy without reviewing
 - NeoVim
 - git
 - iTerm
-- Fish
-
 
 ## Neovim stuff
 
@@ -35,4 +33,4 @@ Requires [Neovim](https://neovim.io/)
 - [ ] Purpose/Flow
 
 ## About me
-Twitter handles is @antoneking. I don't post much.
+Twitter @antoneking. I don't post much.
